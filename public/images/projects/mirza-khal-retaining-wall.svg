@@ -1,0 +1,32 @@
+﻿<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="800" viewBox="0 0 1200 800">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#1a1c16"/>
+      <stop offset="55%" stop-color="#242820"/>
+      <stop offset="100%" stop-color="#5a6b7a" stop-opacity="0.55"/>
+    </linearGradient>
+    <linearGradient id="shine" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#ffffff" stop-opacity="0.12"/>
+      <stop offset="100%" stop-color="#ffffff" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="800" fill="url(#bg)"/>
+  <rect width="1200" height="800" fill="url(#shine)"/>
+  <g opacity="0.35" fill="none" stroke="#5a6b7a" stroke-width="2">
+    <rect x="120" y="180" width="180" height="420"/>
+    <rect x="340" y="120" width="220" height="480"/>
+    <rect x="600" y="220" width="160" height="380"/>
+    <rect x="800" y="150" width="200" height="450"/>
+  </g>
+  <g fill="#5a6b7a" opacity="0.25">
+    <rect x="150" y="240" width="40" height="50"/>
+    <rect x="210" y="240" width="40" height="50"/>
+    <rect x="150" y="320" width="40" height="50"/>
+    <rect x="390" y="200" width="50" height="60"/>
+    <rect x="460" y="200" width="50" height="60"/>
+    <rect x="840" y="220" width="45" height="55"/>
+  </g>
+  <rect x="0" y="620" width="1200" height="180" fill="#0d0e0b" opacity="0.55"/>
+  <text x="64" y="680" fill="#5a6b7a" font-family="Arial, sans-serif" font-size="28" letter-spacing="6" font-weight="700">Civil</text>
+  <text x="64" y="740" fill="#e8e4d9" font-family="Arial, sans-serif" font-size="42" font-weight="700">Mirza Khal Wall</text>
+</svg>

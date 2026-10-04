@@ -1,0 +1,34 @@
+{
+  "name": "dreamers-construction-portfolio",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "data": "node scripts/build-data.mjs",
+    "optimize-images": "node scripts/optimize-images.mjs",
+    "predev": "node scripts/build-data.mjs",
+    "dev": "next dev -p 3001",
+    "prebuild": "node scripts/optimize-images.mjs && node scripts/build-data.mjs",
+    "build": "next build",
+    "postbuild": "node scripts/flatten-rsc.mjs",
+    "preview": "node scripts/preview.mjs",
+    "lint": "eslint"
+  },
+  "dependencies": {
+    "framer-motion": "^12.42.2",
+    "maplibre-gl": "^5.24.0",
+    "next": "16.2.10",
+    "react": "19.2.4",
+    "react-dom": "19.2.4"
+  },
+  "devDependencies": {
+    "@tailwindcss/postcss": "^4",
+    "@types/node": "^20",
+    "@types/react": "^19",
+    "@types/react-dom": "^19",
+    "eslint": "^9",
+    "eslint-config-next": "16.2.10",
+    "sharp": "^0.34.5",
+    "tailwindcss": "^4",
+    "typescript": "^5"
+  }
+}

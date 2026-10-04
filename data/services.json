@@ -1,0 +1,342 @@
+[
+  {
+    "id": "land-development",
+    "title": "Land Development",
+    "description": "Planned residential and commercial land development with modern infrastructure, utilities, and community-oriented layout.",
+    "category": "developer",
+    "icon": "land",
+    "image": "/images/services/land-development.png",
+    "highlights": [
+      "Master-plan coordination",
+      "Infrastructure first",
+      "Phased releases"
+    ],
+    "deliverables": [
+      "Feasibility study",
+      "Infrastructure layout",
+      "Plot demarcation",
+      "Utility connections"
+    ],
+    "sortOrder": 1
+  },
+  {
+    "id": "joint-venture",
+    "title": "Joint Venture & Landowner Partnership",
+    "description": "Collaborative development models for landowners seeking trusted partners to maximize land potential with transparent terms.",
+    "category": "developer",
+    "icon": "partnership",
+    "image": "/images/services/joint-venture.png",
+    "highlights": [
+      "Landowner-friendly terms",
+      "Shared upside models",
+      "End-to-end delivery"
+    ],
+    "deliverables": [
+      "Site assessment",
+      "JV structuring",
+      "Development management",
+      "Sales & handover"
+    ],
+    "sortOrder": 2
+  },
+  {
+    "id": "residential-projects",
+    "title": "Developer Residential Projects",
+    "description": "Company-led residential developments with units available under contract — structure, design, and sales managed by Dreamer's.",
+    "category": "developer",
+    "icon": "residential",
+    "image": "/images/services/residential-projects.png",
+    "highlights": [
+      "Turnkey developer model",
+      "Linked design & interior",
+      "Units in Real Estate"
+    ],
+    "deliverables": [
+      "Land acquisition support",
+      "Design & approvals",
+      "Construction",
+      "Unit sales coordination"
+    ],
+    "sortOrder": 3
+  },
+  {
+    "id": "builder-projects",
+    "title": "Builder / Client-Funded Builds",
+    "description": "Full-cost building projects where the client funds complete delivery — we manage construction, quality, and timeline.",
+    "category": "builder",
+    "icon": "building",
+    "image": "/images/services/builder-projects.png",
+    "highlights": [
+      "Client-funded model",
+      "Fixed-scope contracts",
+      "Quality-controlled delivery"
+    ],
+    "deliverables": [
+      "BOQ & scheduling",
+      "Procurement",
+      "Site management",
+      "Practical completion"
+    ],
+    "sortOrder": 1
+  },
+  {
+    "id": "design-architecture",
+    "title": "Design & Architecture",
+    "description": "Architectural plans and construction documents for our developments and for clients without in-house design capability.",
+    "category": "design",
+    "icon": "interior",
+    "image": "/images/services/design-architecture.png",
+    "highlights": [
+      "Concept to GFC",
+      "Bangladesh NBC compliance",
+      "3D visualization"
+    ],
+    "deliverables": [
+      "Concept layouts",
+      "Working drawings",
+      "Structural coordination",
+      "Authority submissions"
+    ],
+    "sortOrder": 1
+  },
+  {
+    "id": "building-construction",
+    "title": "Civil & Building Construction",
+    "description": "Public buildings, sheds, sports grounds, and institutional facilities delivered with design-build precision — from foundation to handover.",
+    "category": "construction",
+    "icon": "building",
+    "image": "/images/services/building-construction.png",
+    "highlights": [
+      "Institutional & sports facilities",
+      "Design-build delivery",
+      "Army & public-sector clients"
+    ],
+    "deliverables": [
+      "Site preparation & foundations",
+      "Superstructure & finishes",
+      "MEP coordination",
+      "Handover documentation"
+    ],
+    "sortOrder": 1
+  },
+  {
+    "id": "road-construction",
+    "title": "Roads & Bridges",
+    "description": "RCC and bituminous roads, pavements, and steel girder bridges for public and private sector clients across Bangladesh.",
+    "category": "construction",
+    "icon": "road",
+    "image": "/images/services/road-construction.png",
+    "highlights": [
+      "Pavement & RCC roads",
+      "Retaining walls",
+      "Steel girder bridges"
+    ],
+    "deliverables": [
+      "Earthworks & sub-base",
+      "Pavement layers",
+      "Drainage integration",
+      "Bridge superstructure"
+    ],
+    "sortOrder": 2
+  },
+  {
+    "id": "canal-works",
+    "title": "Canal & Waterworks",
+    "description": "Canal reinforcements, retaining walls, and U-channel drainage engineered for flood control, erosion protection, and long service life.",
+    "category": "construction",
+    "icon": "channel",
+    "image": "/images/services/canal-works.png",
+    "highlights": [
+      "RCC retaining walls",
+      "U-channel drainage",
+      "Flood-control structures"
+    ],
+    "deliverables": [
+      "Hydraulic assessment",
+      "RCC wall construction",
+      "Channel lining",
+      "Outlet structures"
+    ],
+    "sortOrder": 3
+  },
+  {
+    "id": "interior-design",
+    "title": "Interior Fit-Out",
+    "description": "High-quality interior fit-outs that combine aesthetics with functional, durable finishes for institutional, commercial, and residential spaces.",
+    "category": "construction",
+    "icon": "interior",
+    "image": "/images/services/interior-design.png",
+    "highlights": [
+      "Institutional interiors",
+      "Residential show flats",
+      "Premium joinery & lighting"
+    ],
+    "deliverables": [
+      "Space planning",
+      "Material selection",
+      "Joinery & ceilings",
+      "Final styling"
+    ],
+    "sortOrder": 4
+  },
+  {
+    "id": "landscaping",
+    "title": "Landscaping & Exterior",
+    "description": "Exterior landscapes, grounds, and outdoor envelope works that complete the project experience — from community greens to private gardens.",
+    "category": "construction",
+    "icon": "land",
+    "image": "/images/services/landscaping.png",
+    "highlights": [
+      "Community greens",
+      "Pathways & lighting",
+      "Planting & drainage"
+    ],
+    "deliverables": [
+      "Landscape design",
+      "Hardscape & paths",
+      "Irrigation & planting",
+      "Exterior lighting"
+    ],
+    "sortOrder": 5
+  },
+  {
+    "id": "commercial-works",
+    "title": "Commercial & Inauguration Works",
+    "description": "Small yet significant commercial packages — inauguration items, fit-outs, and specialty installations delivered on tight schedules.",
+    "category": "construction",
+    "icon": "renovation",
+    "image": "/images/services/commercial-works.png",
+    "highlights": [
+      "Fast-track packages",
+      "Specialty installations",
+      "Institutional upgrades"
+    ],
+    "deliverables": [
+      "Scope definition",
+      "Procurement",
+      "Installation",
+      "Snag & handover"
+    ],
+    "sortOrder": 6
+  },
+  {
+    "id": "bridge-construction",
+    "title": "Bridge Construction",
+    "description": "Steel girder bridges and crossing infrastructure designed for safety, load capacity, and durability in challenging terrain.",
+    "category": "construction",
+    "icon": "bridge",
+    "image": "/images/services/bridge-construction.png",
+    "highlights": [
+      "Steel girder spans",
+      "Pile foundations",
+      "Military-grade specs"
+    ],
+    "deliverables": [
+      "Structural design review",
+      "Fabrication oversight",
+      "Erection & welding QA",
+      "Load testing"
+    ],
+    "sortOrder": 7
+  },
+  {
+    "id": "steel-structure",
+    "title": "Steel Structure Construction",
+    "description": "Steel sheds, girder bridges, and structural steel works engineered for strength and long-term performance.",
+    "category": "construction",
+    "icon": "steel",
+    "image": "/images/services/steel-structure.png",
+    "highlights": [
+      "Portal frames",
+      "Industrial sheds",
+      "On-site erection"
+    ],
+    "deliverables": [
+      "Shop drawings",
+      "Fabrication",
+      "Galvanizing / coating",
+      "Erection"
+    ],
+    "sortOrder": 8
+  },
+  {
+    "id": "sports-complex",
+    "title": "Sports Complex Construction",
+    "description": "Specialized sports facilities including futsal grounds, basketball courts, and recreational infrastructure.",
+    "category": "construction",
+    "icon": "sports",
+    "image": "/images/services/sports-complex.png",
+    "highlights": [
+      "Futsal & basketball courts",
+      "Synthetic surfaces",
+      "Cantonment & campus sites"
+    ],
+    "deliverables": [
+      "Sub-base & drainage",
+      "Court surfacing",
+      "Fencing & lighting",
+      "Line marking & handover"
+    ],
+    "sortOrder": 9
+  },
+  {
+    "id": "retaining-wall",
+    "title": "Retaining Wall Construction",
+    "description": "RCC retaining walls and water-resource systems built to exacting structural and environmental standards.",
+    "category": "construction",
+    "icon": "wall",
+    "image": "/images/services/retaining-wall.png",
+    "highlights": [
+      "Khal & embankment walls",
+      "Flood-control detailing",
+      "Roadside earth retention"
+    ],
+    "deliverables": [
+      "Geotech review",
+      "Foundation & footing",
+      "RCC wall pours",
+      "Drainage & backfill"
+    ],
+    "sortOrder": 10
+  },
+  {
+    "id": "u-channel",
+    "title": "U-Channel Construction",
+    "description": "Drainage and channel infrastructure for urban and industrial sites across Bangladesh.",
+    "category": "construction",
+    "icon": "channel",
+    "image": "/images/services/u-channel.png",
+    "highlights": [
+      "Urban drainage runs",
+      "Precast & cast-in-situ",
+      "Industrial site channels"
+    ],
+    "deliverables": [
+      "Alignment & levels",
+      "Channel casting",
+      "Joints & outlets",
+      "Site reinstatement"
+    ],
+    "sortOrder": 11
+  },
+  {
+    "id": "renovation",
+    "title": "Building Renovation",
+    "description": "Retrofitting and expansion of existing structures while preserving integrity and improving performance.",
+    "category": "construction",
+    "icon": "renovation",
+    "image": "/images/services/renovation.png",
+    "highlights": [
+      "Vertical extensions",
+      "Structural retrofits",
+      "Institutional upgrades"
+    ],
+    "deliverables": [
+      "Condition survey",
+      "Structural strengthening",
+      "Extension & MEP works",
+      "Phased handover"
+    ],
+    "sortOrder": 12
+  }
+]
